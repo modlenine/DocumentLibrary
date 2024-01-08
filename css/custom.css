@@ -1,0 +1,76 @@
+#admin_section{
+display:none;
+}
+
+.input-group-text{
+    background-color:#ccc !important;
+}
+
+/* a:hover{
+    text-decoration: none !important;
+} */
+
+
+/* graph */
+
+#pine {
+    min-width: 400px;
+    max-width: 800px;
+    height: 500px;
+    margin: 1em auto;
+}
+
+caption {
+	padding-bottom: 15px;
+	font-family: 'Verdana';
+	font-size: 1.2em;
+	color:#555;
+}
+
+table {
+	font-family: 'Verdana';
+	font-size: 12pt;          
+	border-collapse: collapse;
+	border: 1px solid #EBEBEB;
+	margin: 2px auto;
+    width: 100%;
+}
+
+table tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+table tr:nth-child(even) {
+  background-color: #FCF9F9;
+}
+
+th {
+	font-weight: 600;
+    padding: 10px;
+}
+
+#graph1 {
+    height: 400px; 
+    min-width: 310px; 
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/*.dataTables_filter{
+    display:none !important;
+}*/
+
+.vertical-nav-menu ul{
+    padding: .5em 0 0 .5rem !important;
+}
+
+.labelAddform{
+    text-align:center;
+}
+
+#list_dar_filter{
+    display:none !important;
+}
+
+
+/* graph */
